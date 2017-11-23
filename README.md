@@ -1,1 +1,1 @@
-# SilvaGitHUB
+Crearemos un script,donde mostrará una serie de nombres,que se guardaran en un fichero,y el usuario,a través de un formulario deberá seleccionar alguno de ellos,mostrando finalmente el nombre indicado.
